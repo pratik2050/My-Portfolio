@@ -4,6 +4,7 @@ import IMG2 from '../../assets/tictacApp.png';
 import IMG3 from '../../assets/pokedex.png'
 import IMG4 from '../../assets/netflix_clone.png';
 import IMG5 from '../../assets/videocallApp.png';
+import IMG6 from '../../assets/template.png'
 
 import './portfolio.css';
 
@@ -57,6 +58,16 @@ const Portfolio = () => {
       technologies: 'Django | Agora SDK',
       link: 'https://github.com/pratik2050/VideoCall-App',
       github: 'https://github.com/pratik2050/VideoCall-App',
+    },
+    {
+      id: 6,
+      title: 'Front End Templates',
+      img: IMG6,
+      description:
+        'Front End Templates for various types of websites',
+      technologies: 'HTML | CSS',
+      link: 'https://github.com/pratik2050/Practice_Website_Templates',
+      github: 'https://github.com/pratik2050/Practice_Website_Templates',
     },
   ];
 
