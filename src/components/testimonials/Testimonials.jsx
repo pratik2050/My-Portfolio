@@ -34,6 +34,13 @@ const Testimonials = () => {
       role: 'Software Engineer - AWS',
       test: 'As a developer and a problem solver, I think Pratik is a great collaborative partner to have. I met Pratik during my College days and I have seen his ups and downs. I can asure you he is a great partner to have',
     },
+    {
+      id: 4,
+      link: 'https://www.linkedin.com/in/supratim-choudhury-37678446/',
+      name: 'Supratim Choudhury',
+      role: 'System Engineer - Infosys',
+      test: 'As a developer and a problem solver, I think Pratik is a great collaborative partner to have. I met Pratik during my College days and I have seen his ups and downs. I can asure you he is a great partner to have',
+    },
   ];
   return (
     <section id="testmonials">
