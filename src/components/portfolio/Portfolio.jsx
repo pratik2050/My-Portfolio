@@ -2,7 +2,7 @@ import React from 'react';
 import IMG1 from '../../assets/anarc.png';
 import IMG2 from '../../assets/tictacApp.png';
 import IMG3 from '../../assets/pokedex.png'
-import IMG4 from '../../assets/netflix_clone.png';
+import IMG4 from '../../assets/lyriks.png';
 import IMG5 from '../../assets/videocallApp.png';
 import IMG6 from '../../assets/template.png'
 
@@ -42,12 +42,12 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: 'Netflix Clone',
+      title: 'Lyriks Player',
       img: IMG4,
-      description: 'Fully functional Netflix Clone with Real Payment Gateway',
-      technologies: 'React | Redux | Razorpay Gateway',
-      link: 'https://netflix-clone-6d761.web.app/',
-      github: 'https://github.com/pratik2050/Netflix-Clone',
+      description: 'Fully functional Music Player with search feature',
+      technologies: 'React | Redux | RapidAPI',
+      link: 'https://pratik-lyriks-player.web.app/',
+      github: 'https://github.com/pratik2050/React-Music-Player',
     },
     {
       id: 5,
@@ -56,7 +56,7 @@ const Portfolio = () => {
       description:
         'Group Video Calling App made with Django and Agora SDK',
       technologies: 'Django | Agora SDK',
-      link: 'https://github.com/pratik2050/VideoCall-App',
+      link: 'https://videoapp-yl3w.onrender.com',
       github: 'https://github.com/pratik2050/VideoCall-App',
     },
     {
